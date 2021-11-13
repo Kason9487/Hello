@@ -1,1 +1,5 @@
-print("Hello World")
+local module = {}
+function H1()
+	print("HELLO WORLD")
+end
+return module
