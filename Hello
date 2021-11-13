@@ -1,5 +1,5 @@
-local module = {}
-function H1()
+local m = {}
+function m.H1()
 	print("HELLO WORLD")
 end
-return module
+return m
