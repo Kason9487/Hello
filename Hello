@@ -1,5 +1,5 @@
 local m = {}
-function m.H1()
+m.H1 = function()
 	print("HELLO WORLD")
 end
 return m
