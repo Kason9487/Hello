@@ -1,5 +1,1 @@
-local m = {}
-m.H1 = function()
-	print("HELLO WORLD")
-end
-return m
+print("HELLO WORLD")
